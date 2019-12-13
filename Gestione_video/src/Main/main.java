@@ -38,7 +38,7 @@ public class main {
 		videoApprofondimento v4 = new videoApprofondimento(nome,Sport.CALCIO,dataRegistrazione);
 
 
-		v4.addGiornalista(new Giornalisti("TIZIO", "CAIO"));
+		v4.addGiornalista(new Giornalisti("PIO", "CAIO"));
 		v4.addGiornalista(new Giornalisti("PIPPO", "PLUTO"));
 
 
